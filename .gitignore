@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Large Model Assets
+hand_landmarker.task
+
+# Project Specific Output
+screenshot_*.png
+*.png
+*.jpg
+*.jpeg
+
+# macOS system files
+.DS_Store
+
+# Local configuration
+.env
+local.properties
